@@ -1,0 +1,21 @@
+{
+  "name": "firstbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "author": "Allen",
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "google-search-results-nodejs": "^2.0.1",
+    "nodemon": "^2.0.7",
+    "ytsr": "^3.2.4"
+  }
+}
