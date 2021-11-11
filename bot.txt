@@ -4,6 +4,10 @@ https://discord.com/developers/applications/806034132102152203/bot
 COPY TOKEN
 
 
+for adding to server
+https://discord.com/api/oauth2/authorize
+https://discord.com/api/oauth2/authorize?client_id=806034132102152203&scope=bot
+
 npm init
 npm install discord.jsS
  npm i dotenv
