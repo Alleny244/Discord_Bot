@@ -2,7 +2,7 @@
 
 # First Bot 🤖
 
-> An awesome multipurpose discord bot build using [discord.js v13](https://discord.js.org) with 
+> An awesome multipurpose discord bot build using [discord.js v13](https://discord.js.org) </br>
 > Demo Bot: [Invite Here](https://discord.com/api/oauth2/authorize?client_id=806034132102152203&scope=bot)
 
 ## Upcoming Changes
