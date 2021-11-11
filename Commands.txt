@@ -1,0 +1,17 @@
+!help
+List the functionalities of the bot
+
+!google searchQuery
+For Quick Google Search\t (example ==>  !google Lost TV Series)
+
+
+!weather CityName
+For Knowing Current weather of your city\t(example ==>  !weather kochi)
+
+
+!youtube Song Name
+For youtube search\t(example ==> !youtube Alone)
+
+
+!joke
+For Cracking a Joke
