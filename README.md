@@ -37,7 +37,22 @@ http://localhost:8080/api/callback
 - **Greeting**: Customizable welcome and farewell embeds
 
 
-Complete commands list can be found at the [Wiki](https://github.com/Alleny244/Discord_Bot/wiki)
+Complete commands list can be found at the [Wiki](https://github.com/Alleny244/Discord_Bot/blob/main/Commands.txt)
+
+
+## Demo
+<span>
+<img width="350" height="300" alt="Strange" src="./readmeImages/intro.png">
+<img width="350" height="300" alt="Strange" src="./readmeImages/second.png">
+</span>
+<span>
+<img width="650" height="400" alt="Strange" src="./readmeImages/google.png">
+<img width="350" height="300" alt="Strange" src="./readmeImages/yt.png">
+</span>
+<span>
+<img width="400" height="250" alt="Strange" src="./readmeImages/joke.png">
+<img width="400" height="250" alt="Strange" src="./readmeImages/weather.png">
+</span>
 
 ## 🤝 Contributing
 
