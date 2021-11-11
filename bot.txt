@@ -1,0 +1,53 @@
+CREATE NEW APPLICATION
+DISCORD DEVELOPER
+https://discord.com/developers/applications/806034132102152203/bot
+COPY TOKEN
+
+
+npm init
+npm install discord.jsS
+ npm i dotenv
+store token there
+
+const Discord = require('discord.js');
+const client = new Discord.Client();
+
+client.on('ready', () => {
+  console.log(`Logged in as ${client.user.tag}!`);
+});
+
+client.on('message', msg => {
+  if (msg.content === 'ping') {
+    msg.reply('Pong!');
+  }
+});
+
+client.login('token');
+
+
+CREATE SERVER
+GO TO DISCORD DEVELOPLER
+Oauth Session
+check bot
+
+
+to react to messages before bot logged in
+const Client=new Discord.Client({
+  partials:['MESSAGES']
+});
+
+
+
+music
+https://www.npmjs.com/package/distube
+npm install distube
+Requirement
+discord.js v12
+FFmpeg - npm install ffmpeg-static
+@discordjs/opus - npm install @discordjs/opus
+python (For youtube-dl to support 700+ more sites.)
+
+
+
+
+google search api
