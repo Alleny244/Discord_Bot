@@ -37,8 +37,8 @@ http://localhost:8080/api/callback
 - **Greeting**: Customizable welcome and farewell embeds
 
 
-Complete commands list can be found at the [Wiki](https://github.com/saiteja-madha/discord-js-bot/wiki)
+Complete commands list can be found at the [Wiki](https://github.com/Alleny244/Discord_Bot/wiki)
 
 ## 🤝 Contributing
 
-- Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
+- Feel free to [Fork](https://github.com/Alleny244/Discord_Bot/fork) this repository, create a feature branch and submit a pull request
