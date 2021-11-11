@@ -10,9 +10,11 @@
   "author": "Allen",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/voice": "^0.7.2",
     "D": "^1.0.0",
     "axios": "^0.21.1",
     "discord.js": "^12.5.1",
+    "distube": "^3.0.2",
     "dotenv": "^8.2.0",
     "google-search-results-nodejs": "^2.0.1",
     "nodemon": "^2.0.7",
