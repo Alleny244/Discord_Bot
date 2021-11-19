@@ -34,7 +34,7 @@ http://localhost:8080/api/callback
 - **Weather Status**: Recites the weather status of any city
 - **Joke Teller**: Have fun with the jokes cracked by this tiny humanoid`
 - **Youtube Search**: Get playlist from Youtbe without switching from Discord
-- **Greeting**: Customizable welcome and farewell embeds
+- **Greeting**: Customizable welcome when a user joins the guild
 
 
 Complete commands list can be found at the [Wiki](https://github.com/Alleny244/Discord_Bot/blob/main/Commands.txt)
